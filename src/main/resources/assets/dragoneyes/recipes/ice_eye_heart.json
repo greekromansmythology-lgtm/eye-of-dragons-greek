@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EG ",
+    "   ",
+    "   "
+  ],
+  "key": {
+    "G": { "item": "iceandfire:ice_dragon_heart" },
+    "E": { "item": "minecraft:ender_eye" }
+  },
+  "result": {
+    "item": "dragoneyes:ice_eye",
+    "count": 1
+  }
+}

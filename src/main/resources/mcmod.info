@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "dragoneyes",
+    "name": "Dragon Eyes",
+    "description": "Adds craftable dragon eyes that locate Stage 5 Ice and Fire dragons.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["Eric"],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
